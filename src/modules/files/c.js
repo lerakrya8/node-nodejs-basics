@@ -1,1 +1,3 @@
-console.log('Hello from c.js!');
+export function print() {
+    console.log('Hello from c.js!');
+}
